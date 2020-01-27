@@ -6,6 +6,8 @@
       <modulePath path="$PROJECT_DIR$/languages/HTML/HTML.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/HTML/runtime/HTML.runtime.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/HTML/sandbox/HTML.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/URL/URL.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/URL/sandbox/URL.sandbox.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/Common.sandbox/Common.sandbox.msd" folder="" />
     </projectModules>
   </component>

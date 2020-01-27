@@ -17,7 +17,6 @@
         <child id="1071489727084" name="propertyDeclaration" index="1TKVEl" />
       </concept>
       <concept id="1071489090640" name="jetbrains.mps.lang.structure.structure.ConceptDeclaration" flags="ig" index="1TIwiD">
-        <property id="1096454100552" name="rootable" index="19KtqR" />
         <reference id="1071489389519" name="extends" index="1TJDcQ" />
       </concept>
       <concept id="1071489288299" name="jetbrains.mps.lang.structure.structure.PropertyDeclaration" flags="ig" index="1TJgyi">
@@ -41,122 +40,6 @@
       </concept>
     </language>
   </registry>
-  <node concept="1TIwiD" id="7iK9SwAErd0">
-    <property role="EcuMT" value="8408263970018407232" />
-    <property role="TrG5h" value="URL" />
-    <property role="19KtqR" value="true" />
-    <property role="3GE5qa" value="" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
-    <node concept="1TJgyi" id="7iK9SwAErd1" role="1TKVEl">
-      <property role="IQ2nx" value="8408263970018407233" />
-      <property role="TrG5h" value="protocol" />
-      <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
-    </node>
-    <node concept="1TJgyi" id="7iK9SwAHkr4" role="1TKVEl">
-      <property role="IQ2nx" value="8408263970019165892" />
-      <property role="TrG5h" value="hasUsername" />
-      <ref role="AX2Wp" to="tpck:fKAQMTB" resolve="boolean" />
-    </node>
-    <node concept="1TJgyi" id="7iK9SwAHkrb" role="1TKVEl">
-      <property role="IQ2nx" value="8408263970019165899" />
-      <property role="TrG5h" value="username" />
-      <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
-    </node>
-    <node concept="1TJgyi" id="7iK9SwAHkr7" role="1TKVEl">
-      <property role="IQ2nx" value="8408263970019165895" />
-      <property role="TrG5h" value="hasPassword" />
-      <ref role="AX2Wp" to="tpck:fKAQMTB" resolve="boolean" />
-    </node>
-    <node concept="1TJgyi" id="7iK9SwAHkrg" role="1TKVEl">
-      <property role="IQ2nx" value="8408263970019165904" />
-      <property role="TrG5h" value="password" />
-      <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
-    </node>
-    <node concept="1TJgyi" id="7iK9SwASrBJ" role="1TKVEl">
-      <property role="IQ2nx" value="8408263970022078959" />
-      <property role="TrG5h" value="isDefaultPort" />
-      <ref role="AX2Wp" to="tpck:fKAQMTB" resolve="boolean" />
-    </node>
-    <node concept="1TJgyi" id="7iK9SwAKZJa" role="1TKVEl">
-      <property role="IQ2nx" value="8408263970020129738" />
-      <property role="TrG5h" value="port" />
-      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
-    </node>
-    <node concept="1TJgyi" id="7iK9SwAThpm" role="1TKVEl">
-      <property role="IQ2nx" value="8408263970022299222" />
-      <property role="TrG5h" value="hasQueryString" />
-      <ref role="AX2Wp" to="tpck:fKAQMTB" resolve="boolean" />
-    </node>
-    <node concept="1TJgyj" id="7iK9SwAFWcs" role="1TKVEi">
-      <property role="IQ2ns" value="8408263970018804508" />
-      <property role="20lmBu" value="fLJjDmT/aggregation" />
-      <property role="20kJfa" value="host" />
-      <property role="20lbJX" value="fLJekj4/_1" />
-      <ref role="20lvS9" node="7iK9SwAFO9B" resolve="Domain" />
-    </node>
-    <node concept="1TJgyj" id="7iK9SwARYF9" role="1TKVEi">
-      <property role="IQ2ns" value="8408263970021960393" />
-      <property role="20lmBu" value="fLJjDmT/aggregation" />
-      <property role="20kJfa" value="path" />
-      <property role="20lbJX" value="fLJekj4/_1" />
-      <ref role="20lvS9" node="7iK9SwARXpk" resolve="Path" />
-    </node>
-    <node concept="1TJgyj" id="7iK9SwATgop" role="1TKVEi">
-      <property role="IQ2ns" value="8408263970022295065" />
-      <property role="20lmBu" value="fLJjDmT/aggregation" />
-      <property role="20kJfa" value="query" />
-      <property role="20lbJX" value="fLJekj5/_0__n" />
-      <ref role="20lvS9" node="7iK9SwATfMO" resolve="EqualSeparatedKVP" />
-    </node>
-  </node>
-  <node concept="1TIwiD" id="7iK9SwAFO9B">
-    <property role="EcuMT" value="8408263970018771559" />
-    <property role="TrG5h" value="Domain" />
-    <property role="3GE5qa" value="url" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
-    <node concept="1TJgyj" id="7iK9SwAFO9C" role="1TKVEi">
-      <property role="IQ2ns" value="8408263970018771560" />
-      <property role="20lmBu" value="fLJjDmT/aggregation" />
-      <property role="20lbJX" value="fLJekj6/_1__n" />
-      <property role="20kJfa" value="part" />
-      <ref role="20lvS9" node="7iK9SwAGkb4" resolve="DomainPart" />
-    </node>
-  </node>
-  <node concept="1TIwiD" id="7iK9SwAGkb4">
-    <property role="EcuMT" value="8408263970018902724" />
-    <property role="TrG5h" value="DomainPart" />
-    <property role="3GE5qa" value="url" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
-    <node concept="1TJgyi" id="7iK9SwAGkb5" role="1TKVEl">
-      <property role="IQ2nx" value="8408263970018902725" />
-      <property role="TrG5h" value="part" />
-      <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
-    </node>
-  </node>
-  <node concept="1TIwiD" id="7iK9SwARXpk">
-    <property role="EcuMT" value="8408263970021955156" />
-    <property role="TrG5h" value="Path" />
-    <property role="3GE5qa" value="url" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
-    <node concept="1TJgyj" id="7iK9SwARXpo" role="1TKVEi">
-      <property role="IQ2ns" value="8408263970021955160" />
-      <property role="20lmBu" value="fLJjDmT/aggregation" />
-      <property role="20kJfa" value="parts" />
-      <property role="20lbJX" value="fLJekj5/_0__n" />
-      <ref role="20lvS9" node="7iK9SwARXpl" resolve="PathPart" />
-    </node>
-  </node>
-  <node concept="1TIwiD" id="7iK9SwARXpl">
-    <property role="EcuMT" value="8408263970021955157" />
-    <property role="TrG5h" value="PathPart" />
-    <property role="3GE5qa" value="url" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
-    <node concept="1TJgyi" id="7iK9SwARXpm" role="1TKVEl">
-      <property role="IQ2nx" value="8408263970021955158" />
-      <property role="TrG5h" value="part" />
-      <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
-    </node>
-  </node>
   <node concept="1TIwiD" id="7iK9SwATfMF">
     <property role="EcuMT" value="8408263970022292651" />
     <property role="TrG5h" value="KeyValuePair" />
