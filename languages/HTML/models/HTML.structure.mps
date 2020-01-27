@@ -6,6 +6,7 @@
     <devkit ref="78434eb8-b0e5-444b-850d-e7c4ad2da9ab(jetbrains.mps.devkit.aspect.structure)" />
   </languages>
   <imports>
+    <import index="48v4" ref="r:2d1b90ed-0806-46dd-89bc-a0e98eadaf39(DTD.structure)" />
     <import index="tpck" ref="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" implicit="true" />
     <import index="42x5" ref="r:0ff506d3-8ddf-44a7-ad34-cd6139220adc(Common.structure)" implicit="true" />
   </imports>
@@ -52,7 +53,7 @@
       <property role="IQ2ns" value="8408263970018407220" />
       <property role="20lmBu" value="fLJjDmT/aggregation" />
       <property role="20kJfa" value="doctype" />
-      <ref role="20lvS9" node="7iK9SwAErcf" resolve="Doctype" />
+      <ref role="20lvS9" to="48v4:2vWa5UEWGCs" resolve="Doctype" />
     </node>
     <node concept="1TJgyj" id="j_g3_Z6ops" role="1TKVEi">
       <property role="IQ2ns" value="352758761508144732" />
@@ -62,18 +63,12 @@
       <ref role="20lvS9" node="7iK9SwATCch" resolve="Tag" />
     </node>
   </node>
-  <node concept="1TIwiD" id="7iK9SwAErcf">
-    <property role="EcuMT" value="8408263970018407183" />
-    <property role="TrG5h" value="Doctype" />
-    <property role="R5$K7" value="true" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
-  </node>
   <node concept="1TIwiD" id="7iK9SwAErcQ">
     <property role="EcuMT" value="8408263970018407222" />
     <property role="TrG5h" value="HTML5" />
     <property role="34LRSv" value="HTML 5" />
     <property role="3GE5qa" value="doctype" />
-    <ref role="1TJDcQ" node="7iK9SwAErcf" resolve="Doctype" />
+    <ref role="1TJDcQ" to="48v4:2vWa5UEWGCs" resolve="Doctype" />
   </node>
   <node concept="1TIwiD" id="7iK9SwATCch">
     <property role="EcuMT" value="8408263970022392593" />
@@ -121,7 +116,8 @@
     <property role="EcuMT" value="352758761508256707" />
     <property role="3GE5qa" value="doctype" />
     <property role="TrG5h" value="HTML41S" />
-    <ref role="1TJDcQ" node="7iK9SwAErcf" resolve="Doctype" />
+    <property role="34LRSv" value="HTML 4.1 Strict" />
+    <ref role="1TJDcQ" to="48v4:2vWa5UEWGCs" resolve="Doctype" />
   </node>
 </model>
 

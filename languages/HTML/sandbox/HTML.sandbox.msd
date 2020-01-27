@@ -10,7 +10,9 @@
   </facets>
   <sourcePath />
   <languageVersions>
+    <language slang="l:281d628c-593f-4edf-beed-1265bd93a0ab:DTD" version="0" />
     <language slang="l:87e8355d-2a02-4a7b-93d5-cabd391929be:HTML" version="0" />
+    <language slang="l:b5c75bf3-7008-44d1-b72d-02077881508e:URL" version="0" />
     <language slang="l:ceab5195-25ea-4f22-9b92-103b95ca8c0c:jetbrains.mps.lang.core" version="2" />
   </languageVersions>
   <dependencyVersions>

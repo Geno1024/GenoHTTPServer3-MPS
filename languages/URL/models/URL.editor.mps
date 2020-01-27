@@ -609,7 +609,7 @@
       </node>
       <node concept="3F2HdR" id="7iK9SwARXqm" role="3EZMnx">
         <property role="2czwfO" value="/" />
-        <ref role="1NtTu8" to="57ae:7iK9SwARXpo" resolve="parts" />
+        <ref role="1NtTu8" to="57ae:7iK9SwARXpo" resolve="part" />
         <node concept="2t5PaK" id="7iK9SwARXqz" role="2czzBx" />
         <node concept="tppnM" id="7iK9SwARXqu" role="sWeuL">
           <ref role="1k5W1q" to="tpen:hFDnyG9" resolve="Dot" />
