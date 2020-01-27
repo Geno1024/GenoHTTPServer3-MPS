@@ -9,15 +9,6 @@
     <list default="true" id="568e067f-cfa5-497a-a54f-255e809d3c0b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.mps/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Common/models/Common.behavior.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Common/models/Common.behavior.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Common/models/Common.constraints.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Common/models/Common.constraints.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Common/models/Common.editor.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Common/models/Common.editor.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Common/models/Common.structure.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Common/models/Common.structure.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/HTML.mpl" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/HTML.mpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/models/HTML.behavior.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/models/HTML.behavior.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/models/HTML.editor.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/models/HTML.editor.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/models/HTML.structure.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/models/HTML.structure.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/sandbox/models/HTML.sandbox.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/sandbox/models/HTML.sandbox.mps" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -358,21 +349,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="b3bb6089-2926-4d42-abcd-d79e05b91db8(Common)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b3bb6089-2926-4d42-abcd-d79e05b91db8(Common)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:0ff506d3-8ddf-44a7-ad34-cd6139220adc(Common.structure) in IdeaFile[path: C:/Users/Geno1024/MPSProjects/GenoHTTPServer3/languages/Common/models/Common.structure.mps]" />
+              <option name="myItemId" value="281d628c-593f-4edf-beed-1265bd93a0ab(DTD)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -392,85 +369,15 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bb7efdd5-d32c-4f5e-80d3-bca6904681a1" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
+              <option name="myItemId" value="2242e28d-ff4a-4fe5-bd1a-7d89a15848a6" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="b3bb6089-2926-4d42-abcd-d79e05b91db8(Common)" />
+              <option name="myItemId" value="DTD" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:0ff506d3-8ddf-44a7-ad34-cd6139220adc(Common.structure) in IdeaFile[path: C:/Users/Geno1024/MPSProjects/GenoHTTPServer3/languages/Common/models/Common.structure.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kvp" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b3bb6089-2926-4d42-abcd-d79e05b91db8(Common)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:47b81a57-0139-4634-97da-77c65cff3ac3(Common.editor) in IdeaFile[path: C:/Users/Geno1024/MPSProjects/GenoHTTPServer3/languages/Common/models/Common.editor.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="e1759ddb-ef2a-469f-821a-b7fafffab55c" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b5c75bf3-7008-44d1-b72d-02077881508e(URL)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:5a03f07a-18b0-4616-8325-a7994cdeebd3(URL.structure) in IdeaFile[path: C:/Users/Geno1024/MPSProjects/GenoHTTPServer3/languages/URL/models/URL.structure.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="url" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b5c75bf3-7008-44d1-b72d-02077881508e(URL)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:4cf04cbb-d199-424b-9f77-24bb0fbebc84(URL.editor) in IdeaFile[path: C:/Users/Geno1024/MPSProjects/GenoHTTPServer3/languages/URL/models/URL.editor.mps]" />
+              <option name="myItemId" value="r:4657b0f9-2651-4a07-aa8e-6c0e894b1f7d(DTD.sandbox) in IdeaFile[path: C:/Users/Geno1024/MPSProjects/GenoHTTPServer3/languages/DTD/sandbox/models/DTD.sandbox.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -498,11 +405,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="b3bb6089-2926-4d42-abcd-d79e05b91db8(Common)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:817d60c5-0704-480b-8a0d-c93d4e0b5617(Common.behavior) in IdeaFile[path: C:/Users/Geno1024/MPSProjects/GenoHTTPServer3/languages/Common/models/Common.behavior.mps]" />
+              <option name="myItemId" value="87e8355d-2a02-4a7b-93d5-cabd391929be(HTML)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -512,7 +415,21 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="b5c75bf3-7008-44d1-b72d-02077881508e(URL)" />
+              <option name="myItemId" value="281d628c-593f-4edf-beed-1265bd93a0ab(DTD)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:2d1b90ed-0806-46dd-89bc-a0e98eadaf39(DTD.structure) in IdeaFile[path: C:/Users/Geno1024/MPSProjects/GenoHTTPServer3/languages/DTD/models/DTD.structure.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2242e28d-ff4a-4fe5-bd1a-7d89a15848a6" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -528,15 +445,11 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bb7efdd5-d32c-4f5e-80d3-bca6904681a1" />
+              <option name="myItemId" value="e1759ddb-ef2a-469f-821a-b7fafffab55c" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Common" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:3e2a3840-c723-4e5a-9d64-70eb25c07ffc(Common.sandbox) in IdeaFile[path: C:/Users/Geno1024/MPSProjects/GenoHTTPServer3/solutions/Common.sandbox/models/Common.sandbox.mps]" />
+              <option name="myItemId" value="HTML" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -546,25 +459,11 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="b5c75bf3-7008-44d1-b72d-02077881508e(URL)" />
+              <option name="myItemId" value="15309efa-11a2-4ad3-beb0-9d2ff8c6842f" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:5a03f07a-18b0-4616-8325-a7994cdeebd3(URL.structure) in IdeaFile[path: C:/Users/Geno1024/MPSProjects/GenoHTTPServer3/languages/URL/models/URL.structure.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b3bb6089-2926-4d42-abcd-d79e05b91db8(Common)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:65765949-a38c-4e87-865f-f4a4930bd4be(Common.constraints) in IdeaFile[path: C:/Users/Geno1024/MPSProjects/GenoHTTPServer3/languages/Common/models/Common.constraints.mps]" />
+              <option name="myItemId" value="URL" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -574,11 +473,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="b5c75bf3-7008-44d1-b72d-02077881508e(URL)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:2eba5ac6-4bab-450f-b6bc-7c2860fd5745(URL.constraints) in IdeaFile[path: C:/Users/Geno1024/MPSProjects/GenoHTTPServer3/languages/URL/models/URL.constraints.mps]" />
+              <option name="myItemId" value="15309efa-11a2-4ad3-beb0-9d2ff8c6842f" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -588,29 +483,15 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bb7efdd5-d32c-4f5e-80d3-bca6904681a1" />
+              <option name="myItemId" value="15309efa-11a2-4ad3-beb0-9d2ff8c6842f" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Common" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
+              <option name="myItemId" value="URL" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="b5c75bf3-7008-44d1-b72d-02077881508e(URL)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:4cf04cbb-d199-424b-9f77-24bb0fbebc84(URL.editor) in IdeaFile[path: C:/Users/Geno1024/MPSProjects/GenoHTTPServer3/languages/URL/models/URL.editor.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="url" />
+              <option name="myItemId" value="r:e0790a3d-6122-4638-9e96-0c96854e8b36(URL.sandbox) in IdeaFile[path: C:/Users/Geno1024/MPSProjects/GenoHTTPServer3/languages/URL/sandbox/models/URL.sandbox.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -620,25 +501,11 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="b5c75bf3-7008-44d1-b72d-02077881508e(URL)" />
+              <option name="myItemId" value="2242e28d-ff4a-4fe5-bd1a-7d89a15848a6" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:585bb429-be84-4322-81d4-a54596839cfb(URL.typesystem) in IdeaFile[path: C:/Users/Geno1024/MPSProjects/GenoHTTPServer3/languages/URL/models/URL.typesystem.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b5c75bf3-7008-44d1-b72d-02077881508e(URL)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:e1867f84-f81f-416c-9f94-ed82e5253455(URL.behavior) in IdeaFile[path: C:/Users/Geno1024/MPSProjects/GenoHTTPServer3/languages/URL/models/URL.behavior.mps]" />
+              <option name="myItemId" value="DTD" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -648,11 +515,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="b5c75bf3-7008-44d1-b72d-02077881508e(URL)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:5a03f07a-18b0-4616-8325-a7994cdeebd3(URL.structure) in IdeaFile[path: C:/Users/Geno1024/MPSProjects/GenoHTTPServer3/languages/URL/models/URL.structure.mps]" />
+              <option name="myItemId" value="281d628c-593f-4edf-beed-1265bd93a0ab(DTD)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </SELECTED>
@@ -702,10 +565,10 @@
     </default_view_options>
   </component>
   <component name="WindowStateProjectService">
-    <state x="2305" y="203" key="#MPSPropertiesConfigurable" timestamp="1580102499558">
+    <state x="2305" y="203" key="#MPSPropertiesConfigurable" timestamp="1580102514006">
       <screen x="1920" y="0" width="1440" height="860" />
     </state>
-    <state x="2305" y="203" key="#MPSPropertiesConfigurable/0.0.1920.1040/1920.0.1440.860@1920.0.1440.860" timestamp="1580102499558" />
+    <state x="2305" y="203" key="#MPSPropertiesConfigurable/0.0.1920.1040/1920.0.1440.860@1920.0.1440.860" timestamp="1580102514006" />
     <state x="513" y="245" key="#MPSPropertiesConfigurable/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580027491103" />
     <state x="513" y="245" key="#MPSPropertiesConfigurable/0.0.1920.1040@0.0.1920.1040" timestamp="1579959634451" />
     <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580017712700">
