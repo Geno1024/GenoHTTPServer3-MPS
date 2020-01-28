@@ -9,6 +9,7 @@
     <import index="48v4" ref="r:2d1b90ed-0806-46dd-89bc-a0e98eadaf39(DTD.structure)" />
     <import index="tpck" ref="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" implicit="true" />
     <import index="42x5" ref="r:0ff506d3-8ddf-44a7-ad34-cd6139220adc(Common.structure)" implicit="true" />
+    <import index="57ae" ref="r:5a03f07a-18b0-4616-8325-a7994cdeebd3(URL.structure)" implicit="true" />
   </imports>
   <registry>
     <language id="c72da2b9-7cce-4447-8389-f407dc1158b7" name="jetbrains.mps.lang.structure">
@@ -118,6 +119,24 @@
     <property role="TrG5h" value="HTML41S" />
     <property role="34LRSv" value="HTML 4.1 Strict" />
     <ref role="1TJDcQ" to="48v4:2vWa5UEWGCs" resolve="Doctype" />
+  </node>
+  <node concept="1TIwiD" id="2vWa5UFm3tD">
+    <property role="EcuMT" value="2881222248676996969" />
+    <property role="3GE5qa" value="doctype.part" />
+    <property role="TrG5h" value="HTML41S_FPI" />
+    <ref role="1TJDcQ" to="48v4:j_g3_Z7tqJ" resolve="FormalPublicIdentifier" />
+  </node>
+  <node concept="1TIwiD" id="2vWa5UFnVwP">
+    <property role="EcuMT" value="2881222248677488693" />
+    <property role="3GE5qa" value="doctype.part" />
+    <property role="TrG5h" value="HTML41S_Reference" />
+    <ref role="1TJDcQ" to="57ae:7iK9SwAErd0" resolve="URL" />
+  </node>
+  <node concept="1TIwiD" id="2vWa5UFnWsR">
+    <property role="EcuMT" value="2881222248677492535" />
+    <property role="3GE5qa" value="doctype.part" />
+    <property role="TrG5h" value="HTML41S_Reference_Host" />
+    <ref role="1TJDcQ" to="57ae:7iK9SwAFO9B" resolve="Domain" />
   </node>
 </model>
 
